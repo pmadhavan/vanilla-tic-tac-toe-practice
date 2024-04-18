@@ -1,5 +1,5 @@
 import './style.css';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
- <h1>Sample Vanilla starter project</h1>
+ <h1>Tic Tac Toe</h1>
 `;
