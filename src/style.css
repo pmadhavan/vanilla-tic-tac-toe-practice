@@ -1,0 +1,13 @@
+.parent {
+    display: grid;
+    width: 150px;
+    grid-template-columns: repeat(3, 50px);
+    border: 1px solid #eee;
+}
+
+.child{
+    cursor: pointer;
+    border: 1px solid #eee;
+    height: 50px;
+    background-color: #898;
+} 
